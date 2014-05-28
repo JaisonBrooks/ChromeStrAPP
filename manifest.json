@@ -1,0 +1,19 @@
+{
+    "name": "__MSG_application_title__",
+    "version": "1.0.0",
+    "default_locale": "en",
+    "description": "__MSG_application_description__",
+    "app": {
+        "background": {
+            "scripts": ["src/js/secretscript.js"]
+        }
+    },
+    "icons": {
+        "16": "res/icons/ic_launcher_16.png",
+        "48": "res/icons/ic_launcher_48.png",
+        "128": "res/icons/ic_launcher_128.png"
+    },
+    "permissions":
+        ["contextMenus"],
+    "manifest_version": 2
+}

@@ -1,0 +1,26 @@
+{
+    "application_title": {
+        "message": "ChromeApp",
+        "description": "This is the title of the app"
+    },
+    "application_description": {
+        "message": "This is chrome app template that includes twitter bootstrap.| {$#(!=?);} > Jaison Brooks",
+        "description": "The description of the application, displayed in the web store."
+    },
+    "application_header": {
+        "message": "ChromeApp",
+        "description": "Header of popup"
+    },
+    "application_sub_header": {
+        "message": "bookmark manager",
+        "description": "Subtitle of popup"
+    },
+    "application_context_parent": {
+        "message": "ChromeApp",
+        "description": "parent of context menu"
+    },
+    "application_context_child": {
+        "message": "ChromeApp this =?> ",
+        "description": "child of context menu"
+    }
+}
